@@ -1,8 +1,6 @@
 # node-posix
 
-The missing POSIX system calls for Node.
-
-[![Build Status](https://secure.travis-ci.org/melor/node-posix.png)](http://travis-ci.org/melor/node-posix)
+The missing POSIX system calls for Node (forked from original to not attempt to build on Windows).
 
 ## FAQ
 

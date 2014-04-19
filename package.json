@@ -1,7 +1,7 @@
 {
-    "name": "posix",
+    "name": "posix-nowin",
     "version": "1.0.3",
-    "description": "The missing POSIX system calls",
+    "description": "The missing POSIX system calls that wont even attempt to build on windows",
     "keywords" : [
         "posix", "rlimit", "getrlimit", "setrlimit", "ulimit", "setuid",
         "setgid", "seteuid", "setegid", "chroot", "setreuid", "setregid",
